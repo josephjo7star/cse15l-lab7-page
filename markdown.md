@@ -17,7 +17,7 @@ _2 minutes 40 seconds_
 
 
 
-2. edit in ssh, log off, and test there:
+2. edit in ssh, exit vim, and test there:
 _1 minute 5 secdons_
 
 `Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?:`
@@ -27,4 +27,4 @@ definitely the second one, simply because scp takes too long.
 
 `What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!):`
 
-nothing would effect my decision, because even if scp doesn't take as long, just typing the command for scp would be more time-consuming than editing in remote server.
+nothing would effect my decision, because even if scp doesn't take as long, just typing the command for scp would be more time-consuming than editing in remote server. We are not going to have scp commands in every single computer's command history
