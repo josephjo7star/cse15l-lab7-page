@@ -9,11 +9,11 @@ key strokes:
 
 ![image](1.png)
 
-(immediately before typing out the above commands)
+(^^immediately before typing out the above commands)
 
 ![image](2.png)
 
-(immediately after typing out the above commands)
+(^^immediately after typing out the above commands)
 
 `:wq<Enter>`:saving and exit vim
 ___
