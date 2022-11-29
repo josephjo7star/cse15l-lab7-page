@@ -3,7 +3,7 @@ key strokes:
 
 `:0,64s/start/base/g<Enter>:wq<Enter>`
 
-`:0,64s` : after going into vim, we type this command, which indicates to search whatever is entered next and replace every occurance within line 0 to line 64 with the next word separated by a slash "/". The reason that we gave it a range is so that we don't change anything outside the class like main.
+`:0,64s` : after going into vim, we type this command, which indicates to search whatever is entered next and replace every occurance within line 0 to line 64 with the next word separated by a slash "/". The reason that we gave it a range is so that we don't change anything outside the class.
 
 `/start/base/g<Enter>`: this combo replaces every occurance of "start" by "base" in this document. The 'g' means to search all elements in this document.
 
